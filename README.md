@@ -1,2 +1,2 @@
-# C-39.github.io
-Reset button and leader board
+# C39RV_SpeedRacer_StudentActivity
+Student Activity
